@@ -47,19 +47,19 @@ footer {
   margin-top:20px;
 }
 .articles {
-  margin-top:35px;
+  margin-top:28px;
   padding:20px;
   background:#777;
   color: #ebebeb;
 }
 .headers {
-  padding:2px;
+  padding:1px;
   background:#ebebeb;
   color: #777;
   margin-top:15px;
 }
 .paragraphs {
-  padding: 15px;
+  padding:1px;
   background:#ebebeb;
   color: #777;
   margin-top:10px;
